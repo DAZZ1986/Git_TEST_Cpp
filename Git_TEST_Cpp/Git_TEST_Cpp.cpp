@@ -1,6 +1,15 @@
 ﻿#include <iostream>
+#include "FuncLib2.h";
+using namespace std;
+
+
+
+
+
 
 int main()
 {
-    std::cout << "Hello World!\n";
+    cout << "Hello World!\n";
+
+    cout << Calc(20, 10);
 }
