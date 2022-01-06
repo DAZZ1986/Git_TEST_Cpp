@@ -10,6 +10,7 @@ using namespace std;
 int main()
 {
     cout << "Work PC!\n";
+    cout << "Work PC!\n";
 
     cout << Calc(20, 10);
 }
